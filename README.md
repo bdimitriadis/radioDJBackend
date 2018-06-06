@@ -17,11 +17,13 @@ What things you need to install on your system
 
 ## Deployment
 
-Just run radioDJapp.py in the local directory with python3 or use radioDJapp.wsgi file with your favourite web server (such as Apache or Nginx), or a lightweight application server that can communicate with a webserver, and the proper server configurations.
+* Just run radioDJapp.py in the local directory with python3 on your local machine for development and testing purposes.
+* To deploy the project on a live system, follow the instruction given by the official documentation of flask on http://flask.pocoo.org/docs/0.12/deploying/ 
 
 ## Built With
 
 * [Python 3.5.2](http://www.python.org/) - Developing with the best programming language
+* [Flask 0.12.2](http://flask.pocoo.org/) - Flask web development, one drop at a time
 
 ## Authors
 
