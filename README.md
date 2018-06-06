@@ -17,8 +17,10 @@ What things you need to install on your system
 
 ## Deployment
 
-* Just run radioDJapp.py in the local directory with python3 on your local machine for development and testing purposes.
-* To deploy the project on a live system, follow the instruction given by the official documentation of flask on http://flask.pocoo.org/docs/0.12/deploying/ 
+Adjust settings in the dbconfig.py file to your own database settings.
+
+* Just run radioDJapp.py in the local directory with python3 on your local machine **for development and testing purposes**.
+* To deploy the project **on a live system**, follow the instruction given by the official documentation of flask on http://flask.pocoo.org/docs/0.12/deploying/ 
 
 ## Built With
 
