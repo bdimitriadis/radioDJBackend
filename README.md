@@ -29,7 +29,7 @@ Adjust settings in the dbconfig.py file to your own database settings.
 
 ## Authors
 
-* **Blasis Dimitriadis** - *Initial work* - [radioDJBackend](https://github.com/bdimitriadis/radioDJBackend)
+* **Vlasios Dimitriadis** - *Initial work* - [radioDJBackend](https://github.com/bdimitriadis/radioDJBackend)
 
 
 ## License
